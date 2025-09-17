@@ -1,5 +1,9 @@
 # Flutter & Dart Tasks
 
+lib/
+├── main.dart # Flutter app: Bidding Page (Task 1)
+└── consoleTasks.dart # Dart console tasks: Task 2 & 3
+
 ### How to Run
 
 ```bash
