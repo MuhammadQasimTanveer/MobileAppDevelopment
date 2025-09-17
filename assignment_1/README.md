@@ -17,9 +17,9 @@ All files are located in the **`lib/`** folder:
 ### ⚡ How to Run
 
 ```bash
-# Run App in Android Studio
+# Run Flutter App in Android Studio
 Flutter run
 
-# Run the program in Command Prompt
+# Run Dart programs in Command Prompt/Terminal
 dart run lib/consoleTasks.dart
 ```
