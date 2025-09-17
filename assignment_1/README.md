@@ -1,4 +1,5 @@
 # Flutter & Dart Tasks
+
 This project contains a Flutter Bidding App and Dart console programs.
 It includes **3 tasks** 
 
@@ -13,7 +14,7 @@ All files are located in the **`lib/`** folder:
 - Flutter Bidding App → `lib/main.dart`  
 - Dart Console Programs → `lib/consoleTasks.dart`
 
-### How to Run
+### ⚡ How to Run
 
 ```bash
 # Run App in Android Studio
