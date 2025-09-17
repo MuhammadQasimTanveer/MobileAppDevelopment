@@ -8,7 +8,7 @@ It includes **3 tasks**
 -  **Task 2** – Dart console: Input name & age, validate age, enter numbers, calculate sum of even/odd, largest & smallest.
 -   **Task 3** – Dart console: Input `n` and print a number pyramid pattern using nested loop.
 
-## 📌 Location
+### 📌 Location
 All files are located in the **`lib/`** folder:  
 
 - Flutter Bidding App → `lib/main.dart`  
