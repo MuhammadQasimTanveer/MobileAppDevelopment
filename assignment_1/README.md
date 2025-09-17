@@ -1,6 +1,8 @@
 # Flutter & Dart Tasks
 This project contains a Flutter Bidding App and Dart console programs.
-It includes **3 tasks**:  
+It includes **3 tasks** 
+
+### 📝 Tasks
 
 - **Task 1** – Flutter app: Displays the current maximum bid. Tap the "Increase Bid" button to increase the bid by $50.
 -  **Task 2** – Dart console: Input name & age, validate age, enter numbers, calculate sum of even/odd, largest & smallest.
