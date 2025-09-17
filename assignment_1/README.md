@@ -10,6 +10,12 @@ lib/
 ├── main.dart # Flutter app: Bidding Page (Task 1)
 └── consoleTasks.dart # Dart console tasks: Task 2 & 3
 
+## 📌 Location
+All files are located in the **`lib/`** folder:  
+
+- Flutter Bidding App → `lib/main.dart`  
+- Dart Console Programs → `lib/consoleTasks.dart`
+
 ### How to Run
 
 ```bash
