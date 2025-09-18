@@ -1,16 +1,25 @@
-# assignment_1
+# Flutter & Dart Tasks
 
-A new Flutter project.
+This project contains a Flutter Bidding App and Dart console programs.
+It includes **3 tasks** 
 
-## Getting Started
+## 📝 Tasks
+- **Task 1** – Flutter app: Displays the current maximum bid. Tap the "Increase Bid" button to increase the bid by $50.
+-  **Task 2** – Dart console: Input name & age, validate age, enter numbers, calculate sum of even/odd, largest & smallest.
+-   **Task 3** – Dart console: Input `n` and print a number pyramid pattern using nested loop.
 
-This project is a starting point for a Flutter application.
+## 📌 Location
+All files are located in the **`lib/`** folder:  
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter Bidding App → `lib/main.dart`  
+- Dart Console Programs → `lib/consoleTasks.dart`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚡ How to Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+# Run Flutter App in Android Studio
+Flutter run
+
+# Run Dart programs in Command Prompt/Terminal
+dart run lib/consoleTasks.dart
+```
