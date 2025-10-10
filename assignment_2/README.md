@@ -4,9 +4,9 @@ This project is a **Flutter Travel Guide Application** that demonstrates the use
 
 ---
 
-## 📝 Assignment Tasks
+## 📝 Tasks
 
-The app includes **three main screens**:
+The app includes **3 main screens**:
 
 ### 1️⃣ Home Screen
 - Displays a travel image using `Image.network()`.  
@@ -24,11 +24,8 @@ The app includes **three main screens**:
 
 ---
 
-## How to Run
+## ⚡ How to Run
 
 ```bash
-# Navigate to project folder
-cd path/to/TravelGuideApp
-
-# Run Flutter app
-flutter run
+# Run Flutter App in Android Studio
+Flutter run
