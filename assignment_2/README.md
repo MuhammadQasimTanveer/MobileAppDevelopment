@@ -1,16 +1,31 @@
-# assignment_2
+# TravelGuideApp
 
-Travel Guide Application built with flutter
+This project is a **Flutter Travel Guide Application** that demonstrates the use of widgets, multi-screen navigation, scrollable layouts, and UI design principles.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📝 Tasks
 
-A few resources to get you started if this is your first Flutter project:
+The app includes **3 main screens**:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1️⃣ Home Screen
+- Displays a travel image using `Image.network()`.  
+- Shows a short welcome message & displays a travel slogan using `RichText`.
+- Includes a `TextField` for entering a destination name.  
+- Contains **two buttons** (`ElevatedButton` and `TextButton`) with simple actions (e.g., `SnackBar` or `print`).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2️⃣ List Screen
+- Shows a **scrollable ListView** with at 10 travel destinations.  
+- Each item contains a **destination name** and a **short description**.
+
+### 3️⃣ About Screen
+- Displays a **GridView** of 6 famous landmarks.  
+- Each grid item has an **image** and a **caption**.
+
+---
+
+## ⚡ How to Run
+
+```bash
+# Run Flutter App in Android Studio
+Flutter run
