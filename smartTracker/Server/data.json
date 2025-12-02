@@ -1,0 +1,54 @@
+{
+  "activities": [
+    {
+      "id": "5b8c2f83-9697-4d5a-831b-ea7eb85ac3ec",
+      "title": "Reading Time",
+      "description": "Read 2 chapters of a book before bedtime.",
+      "latitude": 33.59637580923174,
+      "longitude": 73.0726549209082,
+      "imageUrl": null,
+      "timestamp": "2025-12-02T12:12:55.899Z",
+      "createdAt": "2025-12-02T12:12:55.899Z"
+    },
+    {
+      "id": "e670fd59-ce66-4aa8-aed3-e77efd6d8942",
+      "title": "Evening Yoga",
+      "description": "Did a 45-minute yoga session to relax and stretch.",
+      "latitude": 33.59638357080821,
+      "longitude": 73.07267990674362,
+      "imageUrl": null,
+      "timestamp": "2025-12-02T12:12:34.504Z",
+      "createdAt": "2025-12-02T12:12:34.504Z"
+    },
+    {
+      "id": "3014c004-9ec1-40a3-b9a0-8a7b75f39c5e",
+      "title": "Grocery Shopping",
+      "description": "Went to the local market to buy weekly groceries.",
+      "latitude": 33.59638357080821,
+      "longitude": 73.07267990674362,
+      "imageUrl": null,
+      "timestamp": "2025-12-02T12:12:06.053Z",
+      "createdAt": "2025-12-02T12:12:06.053Z"
+    },
+    {
+      "id": "3e7eb416-e078-4e93-b03b-1db1f1a25252",
+      "title": "Coffee Break",
+      "description": "Had a relaxing coffee at home while reading news.",
+      "latitude": 33.59637419727534,
+      "longitude": 73.07266463358057,
+      "imageUrl": null,
+      "timestamp": "2025-12-02T12:11:42.671Z",
+      "createdAt": "2025-12-02T12:11:42.671Z"
+    },
+    {
+      "id": "109ec546-44d5-4a42-a0a8-55c625c3ffed",
+      "title": "Morning Walk",
+      "description": "Took a 30-minute walk around the neighborhood to stay active.",
+      "latitude": 33.59638299137388,
+      "longitude": 73.07262482552575,
+      "imageUrl": null,
+      "timestamp": "2025-12-02T12:10:59.023Z",
+      "createdAt": "2025-12-02T12:10:59.024Z"
+    }
+  ]
+}
